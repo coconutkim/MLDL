@@ -1,0 +1,2 @@
+아나콘다 가상환경 제거
+conda env remove -n 가상환경이름
